@@ -1,0 +1,42 @@
+/* Global styles */
+
+body {
+    padding-top: 60px; /* Adjust as needed for the height of your navigation bar */
+  }
+  
+  .navbar {
+    margin-bottom: 20px;
+  }
+  
+  .footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40;
+    color: #fff;
+  }
+  
+  /* Custom styles for specific elements */
+  
+  .card {
+    margin-bottom: 30px;
+  }
+  
+  .card-title {
+    margin-bottom: 10px;
+  }
+  
+  .card-text {
+    font-size: 14px;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
